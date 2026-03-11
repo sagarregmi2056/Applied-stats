@@ -48,7 +48,6 @@ flowchart TD
 
 Descriptive statistics focuses on **summarizing and describing the main features of a dataset**.
 
-
 # Descriptive Statistics Structure
 
 ```mermaid
@@ -73,6 +72,8 @@ D --> D1[Bar Plot]
 D --> D2[Histogram]
 D --> D3[Box Plot]
 D --> D4[Pie Chart]
+```
+
 
 It answers questions such as:
 
@@ -180,5 +181,9 @@ Statistics helps us:
 - **Infer properties of populations from samples**
 
 Descriptive statistics **summarizes the data you have**, while inferential statistics **allows you to draw conclusions about a larger population using sample data**.
+
+
+
+
 
 
