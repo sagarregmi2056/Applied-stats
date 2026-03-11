@@ -48,31 +48,7 @@ flowchart TD
 
 Descriptive statistics focuses on **summarizing and describing the main features of a dataset**.
 
-# Descriptive Statistics Structure
 
-```mermaid
-flowchart TD
-
-A[Descriptive Statistics]
-
-A --> B[Measures of Central Tendency]
-A --> C[Measures of Dispersion]
-A --> D[Graphical Representation]
-
-B --> B1[Mean]
-B --> B2[Median]
-B --> B3[Mode]
-
-C --> C1[Range]
-C --> C2[Interquartile Range (IQR)]
-C --> C3[Standard Deviation]
-C --> C4[Variance]
-
-D --> D1[Bar Plot]
-D --> D2[Histogram]
-D --> D3[Box Plot]
-D --> D4[Pie Chart]
-```
 
 
 It answers questions such as:
